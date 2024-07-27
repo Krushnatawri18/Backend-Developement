@@ -1,5 +1,3 @@
-# Backend-Developement
-
 # Backend Development Repository
 
 Welcome to the Backend Development Repository! This repository contains all the codes and notes related to backend development, including Node.js, Express.js, Mongoose, and more.
@@ -48,4 +46,4 @@ Make sure you have the following installed on your local machine:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/Krushnatawri18/backend-development.git
+      https://github.com/Krushnatawri18/Backend-Developement.git
