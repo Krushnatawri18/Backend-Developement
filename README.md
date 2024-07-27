@@ -11,7 +11,7 @@ Welcome to the Backend Development Repository! This repository contains all the 
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Fork the Project](#fork-the-project)
 - [Contact](#contact)
 
 ## Introduction
@@ -51,38 +51,38 @@ Make sure you have the following installed on your local machine:
 
 2. **Navigate to the project directory**
 
-```bash
-   git clone https://github.com/Krushnatawri18/backend-development.git
-```
+  ```bash
+     git clone https://github.com/Krushnatawri18/backend-development.git
+  ```
 
 3. **Install dependencies**
 
 Run the following command to install all the required dependencies:
 
-```bash
-   npm install
-```
+  ```bash
+     npm install
+  ```
 
 4. **Set up environment variables**
 
 Create a .env file in the root directory and add your environment variables. For example:
 
-```bash
-   DATABASE_URL=mongodb://localhost:27017/mydatabase
-   PORT=3000
-```
+  ```bash
+     DATABASE_URL=mongodb://localhost:27017/mydatabase
+     PORT=3000
+  ```
 
 ## Usage
-Start the development server
+1. Start the development server
 
 Run the following command to start the server:
 
-```bash
-   npm start
-```
+  ```bash
+     npm start
+  ```
 The server will start on the port specified in your .env file. If not specified, it will default to port 3000.
 
-Test the API
+2. Test the API
 
 Use Postman or any other API testing tool to test the endpoints. You can find the list of available endpoints in the documentation or the codebase.
 
