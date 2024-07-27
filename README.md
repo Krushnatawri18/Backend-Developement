@@ -47,7 +47,8 @@ Make sure you have the following installed on your local machine:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/Krushnatawri18/backend-development.git
+      git clone https://github.com/Krushnatawri18/backend-development.git
+   ```
 
 2. **Navigate to the project directory**
 
@@ -73,7 +74,7 @@ Create a .env file in the root directory and add your environment variables. For
   ```
 
 ## Usage
-1. Start the development server
+1. **Start the development server**
 
 Run the following command to start the server:
 
@@ -82,7 +83,7 @@ Run the following command to start the server:
   ```
 The server will start on the port specified in your .env file. If not specified, it will default to port 3000.
 
-2. Test the API
+2. **Test the API**
 
 Use Postman or any other API testing tool to test the endpoints. You can find the list of available endpoints in the documentation or the codebase.
 
