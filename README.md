@@ -58,7 +58,7 @@ Make sure you have the following installed on your local machine:
 
 3. **Install dependencies**
 
-Run the following command to install all the required dependencies:
+  Run the following command to install all the required dependencies:
 
   ```bash
      npm install
@@ -66,7 +66,7 @@ Run the following command to install all the required dependencies:
 
 4. **Set up environment variables**
 
-Create a .env file in the root directory and add your environment variables. For example:
+  Create a .env file in the root directory and add your environment variables. For example:
 
   ```bash
      DATABASE_URL=mongodb://localhost:27017/mydatabase
